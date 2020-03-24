@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CCC/WebContent/WEB-INF/lib/commons-io-1.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CCC/WebContent/WEB-INF/lib/org.apache.commons.fileupload.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CCC/WebContent/WEB-INF/lib/apache-commons.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
